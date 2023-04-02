@@ -1,6 +1,5 @@
-![Hey there, I'm Hassan. I'm a software developer, a maker and infosec enthusiast. Check out my work]
 
-[![Facebook Followers](https://img.shields.io/badge/Follow%20us%20on-Facebook-3B5998?logo=facebook&style=for-the-badge)](https://www.facebook.com/WinDos1000) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/HassanAhmed2512) 
+
 
 # 👋 &nbsp;Hi there
 
@@ -12,7 +11,7 @@ I'm always looking for new opportunities to collaborate on exciting projects and
 
 
 
-
+[![Facebook Followers](https://img.shields.io/badge/Follow%20us%20on-Facebook-3B5998?logo=facebook&style=for-the-badge)](https://www.facebook.com/WinDos1000)  &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/HassanAhmed2512) 
 
 
 &nbsp;
