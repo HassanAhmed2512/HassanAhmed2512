@@ -1,22 +1,44 @@
-
-
-
 # 👋 &nbsp;Hi there
 
-Hello! I'm a junior backend developer with a passion for building scalable and reliable systems. I have experience working with Node.js and PHP, and I'm eager to learn more about backend development.
+Hello! I'm Hassan, a **Software Engineer** with real-world experience in **Full Stack development**, specializing in building and maintaining complex systems. I thrive in **team environments**, collaborating closely with others to design, develop, and deploy scalable and reliable applications.
 
-Currently, I'm working on developing my skills in RESTful API design and implementation, as well as working with databases such as MongoDB and MySQL and Orcale. I'm also learning about cloud computing and DevOps practices to better understand the full software development lifecycle.
+I have extensive experience working with **PHP**, **Laravel**, and **Livewire** to create robust backend solutions, as well as a solid understanding of frontend technologies. I am always eager to learn new tools and technologies, staying updated with industry trends to improve my skill set.
 
-I'm always looking for new opportunities to collaborate on exciting projects and improve my skills. Feel free to check out some of my projects on GitHub, and let's connect if you're interested in working together!
+I am passionate about delivering high-quality software and continuously refining my approach to solving technical challenges. Whether it's **developing RESTful APIs**, working with databases, or exploring **cloud computing** and **DevOps** practices, I'm committed to expanding my expertise.
 
+Feel free to reach out if you're interested in working together!
 
-
-[![Facebook Followers](https://img.shields.io/badge/Follow%20us%20on-Facebook-3B5998?logo=facebook&style=for-the-badge)](https://www.facebook.com/WinDos1000)  &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/HassanAhmed2512) 
-
+[![Facebook Followers](https://img.shields.io/badge/Follow%20me%20on-Facebook-3B5998?logo=facebook&style=for-the-badge)](https://www.facebook.com/WinDos1000)
 
 &nbsp;
 
-## 🧰 &nbsp;My Skills
+## 🧰 &nbsp;My Tech Stack
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+### Backend:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> &nbsp;
+</p>
 
+### Frontend:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+</p>
+
+### DevOps & Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/> &nbsp;
+</p>
+
+---
