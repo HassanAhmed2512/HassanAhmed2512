@@ -8,8 +8,6 @@ I am passionate about delivering high-quality software and continuously refining
 
 Feel free to reach out if you're interested in working together!
 
-[![Facebook Followers](https://img.shields.io/badge/Follow%20me%20on-Facebook-3B5998?logo=facebook&style=for-the-badge)](https://www.facebook.com/WinDos1000)
-
 &nbsp;
 
 ## 🧰 &nbsp;My Tech Stack
@@ -17,7 +15,7 @@ Feel free to reach out if you're interested in working together!
 ### Backend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> &nbsp;
